@@ -1,4 +1,4 @@
-name: carnd-term1
+name: LaneLines-P1
 channels:
 - menpo
 - conda-forge
